@@ -2,7 +2,7 @@
 
 # Freddy Amin Zapata - Desarrollador Fullstack 🚀
 
-¡Hola! Soy **Freddy Amin Zapata**, un apasionado programador fullstack comprometido tanto con el desarrollo backend como frontend. Me conocen como **goku623** en GitHub. Hace dos años, di mis primeros pasos en el mundo de la programación, y desde entonces, he estado constantemente explorando nuevas tecnologías para expandir mis habilidades. Comencé con Java, que me ayudó a desarrollar una sólida base en lógica de programación.
+¡Hola! Soy **Freddy Amin Zapata**, un apasionado programador fullstack comprometido tanto con el desarrollo backend como frontend. Me conocen como **goku623** en GitHub. Hace 3 años, di mis primeros pasos en el mundo de la programación, y desde entonces, he estado constantemente explorando nuevas tecnologías para expandir mis habilidades. Comencé con Java, que me ayudó a desarrollar una sólida base en lógica de programación.
 
 ## ¿Quién Soy? 🤔
 
