@@ -1,6 +1,6 @@
 <div align="center">
 
-# Freddy Amin Zapata - Full Stack Developer 🚀
+# Freddy Amin Zapata Morato - Full Stack Developer 🚀
 
 Welcome to my portfolio! I'm passionate about creating innovative and efficient web applications that enhance user experiences. With a strong foundation in both front-end and back-end technologies, I strive to deliver high-quality solutions that meet the needs of users and businesses alike.
 
@@ -13,8 +13,8 @@ Feel free to reach out for any inquiries, collaborations, or exciting ideas:
 
 ## Skills & Technologies
 
-- **Front-End**: HTML, CSS, JavaScript, React, Vue.js
-- **Back-End**: Node.js, Express, Python, Django
+- **Front-End**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **Back-End**: Node.js, Express, Python, Flask
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms**: Git, Docker, AWS, Firebase
 
